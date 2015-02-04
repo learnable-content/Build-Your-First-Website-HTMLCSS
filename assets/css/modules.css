@@ -371,3 +371,39 @@ press
 footer
 ---------------------------- */
 
+.footer__info { color: #777; }
+
+.footer__info ul
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.footer__info a:link,
+.footer__info a:visited
+{
+	color: #777;
+	text-decoration: none;
+}
+
+.footer__info a:focus,
+.footer__info a:hover,
+.footer__info a:active { border-bottom: .15em solid; }
+
+.footer__info a:focus { color: #fff; }
+.footer__info a:hover { color: #3bb2d0; }
+.footer__info a:active { color: #56b880; }
+
+.footer__logo { margin: 0 0 2em; }
+.footer__copyright { margin: 1em 0 0; }
+.footer__copyright li
+{
+	display: inline-block;
+	margin: 0 1em 0 0;
+}
+
+@media (min-width: 38em)
+{
+	.footer__cta { text-align: right; }
+}
