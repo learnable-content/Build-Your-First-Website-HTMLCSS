@@ -1,5 +1,5 @@
 ![](headers/head1.2.jpg)
-# Introduction to moving away full page layouts
+# Introduction: Moving away full page layouts
 
 In this lesson we are going to explore new methodologies. The first thing we're going to look at is the trend of moving away from pages. A few years ago, many front end developers approached web sites and web applications as a series of pages. These pages were often built as complete entities which meant that the page components were often closely tied to their relevant pages. More recently, the focus has shifted from full page layouts to **reusable modules**. Examples of a reusable module include layout grid structure, a button, an input, or even something like a pull-quote.
 
