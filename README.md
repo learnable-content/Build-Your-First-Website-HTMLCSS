@@ -1,6 +1,6 @@
 
-##Welcome
-###Build Your First Website: HTML & CSS
+# Welcome
+## Build Your First Website: HTML & CSS
 
 Welcome to "Build Your First Website: HTML & CSS" course! The aim of this course is to take an original design, provided as a sketch file, and turn it into a responsive HTML and CSS layout. 
 
@@ -20,11 +20,11 @@ In this course we will go through the following:
 
 You really only need a text editor like **BBedit**, **Coda**, **Dreamweaver** etc, and some sort of web browser. I recommend using one of the modern browsers: 
 
-* Internet Explorer 10 ()or above)
+* Internet Explorer 10 (or above)
 * Chrome 12+
 * Firefox 5+ 
 * Safari 5.1+
 
-##Files
+## Files
 To download all the files for this course visit [lesson 1.1](https://github.com/learnable-content/Build-Your-First-Website-HTMLCSS/tree/lesson1.1)
 
